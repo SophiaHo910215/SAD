@@ -6,7 +6,7 @@
 >+ 學號：40971113H
 
 ## GitMind
-(https://gitmind.com/app/docs/m6ebjb2l)
+https://gitmind.com/app/docs/m6ebjb2l
 
 ## 課堂PPT
 + [Week1](https://docs.google.com/presentation/d/e/2PACX-1vS-Qcb7LoQZHoH2NaeRPXYqOZYcpOUvID6jwQGJ-Gpt1SKjmSmzR-qCuhby7ZkvEI5JHmK0xkNnVfwm/pub?start=false&loop=false&delayms=3000&slide=id.p)
