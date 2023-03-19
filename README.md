@@ -6,7 +6,7 @@
 >+ 學號：40971113H
 
 ## 作業繳交區
-+ HW1 (https://www.youtube.com/watch?v=1BFcbGm7mFs)
++ HW1 ()
 + HW2 ()
 + HW3 ()
 + HW4 ()
