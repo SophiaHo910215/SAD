@@ -5,6 +5,9 @@
 >+ 系級：科技113
 >+ 學號：40971113H
 
+##GitMind
+(https://gitmind.com/app/docs/m6ebjb2l)
+
 ## 作業繳交區
 + HW1 ()
 + HW2 ()
