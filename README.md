@@ -27,8 +27,8 @@ https://gitmind.com/app/docs/m6ebjb2l
 + Week16 ()
 
 ## 作業繳交區
-+ [HW1](https://www.youtube.com/watch?v=so3o6Unk7Dg)
-+ [HW2]()
++ [HW1](https://gitmind.com/app/docs/m6ebjb2l)
++ [HW2](https://www.youtube.com/watch?v=so3o6Unk7Dg)
 + [HW3]()
 + [HW4]()
 + [HW5]()
