@@ -14,7 +14,7 @@ https://gitmind.com/app/docs/m6ebjb2l
 
 ## 作業繳交區
 + [HW1](https://www.youtube.com/watch?v=so3o6Unk7Dg)
-+ [HW2]()
++ [HW2](https://www.youtube.com/watch?v=hlqv0hdOeW8)
 + [HW3]()
 + [HW4]()
 + [HW5]()
