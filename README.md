@@ -8,7 +8,7 @@
 ## GitMind
 https://gitmind.com/app/docs/m6ebjb2l
 
-##學習資源
+## 學習資源
 + [HTML](https://mtache.com/html)
 + [CSS](https://www.youtube.com/watch?v=Ml78vnNTBLw)
 
