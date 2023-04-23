@@ -9,7 +9,7 @@
 https://gitmind.com/app/docs/m6ebjb2l
 
 ##學習資源
-+ [HTML]()
++ [HTML](https://mtache.com/html)
 + [CSS](https://www.youtube.com/watch?v=Ml78vnNTBLw)
 
 ## 作業繳交區
@@ -18,7 +18,5 @@ https://gitmind.com/app/docs/m6ebjb2l
 + [HW3]()
 + [HW4]()
 + [HW5]()
-
-## 課堂筆記區
 
 ## 專題連結區
