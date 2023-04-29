@@ -11,11 +11,12 @@ https://gitmind.com/app/docs/m6ebjb2l
 ## 學習資源
 + [HTML](https://mtache.com/html)
 + [CSS](https://www.youtube.com/watch?v=Ml78vnNTBLw)
++ [Figma](https://www.youtube.com/watch?v=P96TQwsY_VY)
 
 ## 作業繳交區
 + [HW1](https://www.youtube.com/watch?v=so3o6Unk7Dg)
 + [HW2](https://www.youtube.com/watch?v=hlqv0hdOeW8)
-+ [HW3]()
++ [HW3](https://www.youtube.com/watch?v=zTllqAeTLjE)
 + [HW4]()
 + [HW5]()
 
