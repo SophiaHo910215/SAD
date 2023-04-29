@@ -8,6 +8,9 @@
 ## GitMind
 https://gitmind.com/app/docs/m6ebjb2l
 
+## Notion 
+https://www.notion.so/d9e1f5bc5f114afb84d6e554bb4ccaf3?v=56c87d5bb1734dde968228ffa953c6b2
+
 ## 學習資源
 + [HTML](https://mtache.com/html)
 + [CSS](https://www.youtube.com/watch?v=Ml78vnNTBLw)
